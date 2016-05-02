@@ -1,0 +1,14 @@
+{
+  "name": "mdelaney-macosx",
+  "version": "0.1.0",
+  "author": "Mike Delaney",
+  "summary": "Help/Tweaks that I always like to apply to mac build machines",
+  "license": "BSD-2-Clause",
+  "source": "https://github.com/madelaney/puppet-macosx.git",
+  "project_page": "https://github.com/madelaney/puppet-macosx",
+  "issues_url": "https://github.com/madelaney/puppet-macosx/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
